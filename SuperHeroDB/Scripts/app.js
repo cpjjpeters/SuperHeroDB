@@ -84,5 +84,6 @@ function showBattlefield() {
 }
 
 $(document).ready(function () {
-    //getAllHeroes();
+    getAllHeroes();
+
 });
